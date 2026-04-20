@@ -13,6 +13,13 @@ out/
 # vercel
 .vercel
 
+# Claude Code
+.claude/
+
 # misc
 .DS_Store
 *.pem
+
+# Zone.Identifier (Windows/WSL)
+*:Zone.Identifier
+*.Zone.Identifier
